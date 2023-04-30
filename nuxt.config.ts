@@ -11,7 +11,7 @@ export default defineNuxtConfig({
 
     runtimeConfig: {
         public: {
-            apiBase: "http://api.menuoff.site/api",
+            apiBase: "https://api.menuoff.site/api",
         },
     },
     
